@@ -2,7 +2,7 @@
 
 ## Part 1: Optimize PageSpeed Insights
 
-* The site is available on [github pages](https://keirsweeney.github.io/frontend-nanodegree-mobile-portfolio/index.html)
+* The site is available on [github pages](https://keirsweeney.github.io/frontend-nanodegree-mobile-portfolio-keir/index.html)
 * And the [pizza page] too(https://keirsweeney.github.io/frontend-nanodegree-mobile-portfolio/views/pizza.html)
 * Optimised all images using tinyjpg.com
 * CSS minified with https://cssminifier.com/
